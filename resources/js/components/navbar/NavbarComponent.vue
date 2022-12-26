@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg customNavbar">
+  <nav class="navbar navbar-expand-lg fixed-top customNavbar">
     <div class="container">
       <a class="navbar-brand text-light" href="#">
         <img src="img/logo.png" alt="" />
@@ -75,5 +75,6 @@ export default {
 .customNavbar {
   background-color: #323645;
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+  margin-top: 35px;
 }
 </style>

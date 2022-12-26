@@ -21,8 +21,8 @@
               <input
                 type="text"
                 class="form-control"
-                placeholder="Recipient's username"
-                aria-label="Recipient's username"
+                placeholder="Cari nama domain anda"
+                aria-label="Cari nama domain anda"
                 aria-describedby="button-addon2"
               />
               <button
@@ -83,7 +83,7 @@ export default {};
 section {
   background-color: #323645;
   color: white;
-
+  margin-top: 120px;
   padding-bottom: 200px;
 }
 img.internet {
