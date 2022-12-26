@@ -34,6 +34,24 @@
               </button>
             </div>
           </div>
+
+          <div class="row">
+            <div class="col-sm-4">
+              <p><span>.com</span> Rp. 165.000</p>
+            </div>
+            <div class="col-sm-4">
+              <p><span>.id</span> Rp. 225.000</p>
+            </div>
+            <div class="col-sm-4">
+              <p><span>.info</span> Rp. 77.000</p>
+
+            </div>
+          </div>
+          <div class="row">
+            <p><span>Coba cari banyak domain?</span></p>
+          </div>
+
+
         </div>
         <div class="col-sm-3"></div>
         <div class="col-sm-4">
@@ -42,7 +60,7 @@
               class="internet"
               src="/img/internet-rumah-cepat.png"
               alt="internet cepat"
-              height="329"
+              height="350"
             />
           </div>
           <div class="row">
@@ -65,6 +83,8 @@ export default {};
 section {
   background-color: #323645;
   color: white;
+
+  padding-bottom: 200px;
 }
 img.internet {
   max-width: 80%;
@@ -73,5 +93,9 @@ img.internet {
 img.icann {
   width: 100px;
   height: 100px;
+}
+
+p>span{
+  color: #F7863B;
 }
 </style>
