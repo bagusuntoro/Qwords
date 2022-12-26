@@ -27,7 +27,8 @@ Vue.component('navbar-component', require('./components/navbar/NavbarComponent.v
 Vue.component('dropdown-component', require('./components/navbar/DropdownComponent.vue').default);
 // jumbotron
 Vue.component('jumbotron-component', require('./components/jumbotron/JumbotronComponent.vue').default);
-
+// cloud
+Vue.component('cloud-component', require('./components/cloudHosting/CloudComponent.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to

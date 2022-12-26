@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar customNavbar">
+  <nav class="navbar customNavbar fixed-top">
     <div class="container customContainer">
       <div class="row text-light">
         <div class="col-sm-9">

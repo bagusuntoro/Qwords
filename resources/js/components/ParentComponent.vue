@@ -3,6 +3,7 @@
     <header-component />
     <navbar-component />
     <jumbotron-component />
+    <cloud-component/>
   </div>
 </template>
 
