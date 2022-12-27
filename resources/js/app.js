@@ -27,8 +27,18 @@ Vue.component('navbar-component', require('./components/navbar/NavbarComponent.v
 Vue.component('dropdown-component', require('./components/navbar/DropdownComponent.vue').default);
 // jumbotron
 Vue.component('jumbotron-component', require('./components/jumbotron/JumbotronComponent.vue').default);
-// cloud
+// cloud services
 Vue.component('cloud-component', require('./components/cloudHosting/CloudComponent.vue').default);
+// other services
+Vue.component('services-component', require('./components/otherService/ServicesComponent.vue').default);
+// solutions
+Vue.component('solution-component', require('./components/solutions/SolutionComponent.vue').default);
+// create website
+Vue.component('website-component', require('./components/createWebsite/WebsiteComponent.vue').default);
+// komitmen
+Vue.component('komitmen-component', require('./components/komitmen/KomitmenComponent.vue').default);
+// garansi
+Vue.component('garansi-component', require('./components/garansi/GaransiComponent.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
