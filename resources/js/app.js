@@ -39,6 +39,27 @@ Vue.component('website-component', require('./components/createWebsite/WebsiteCo
 Vue.component('komitmen-component', require('./components/komitmen/KomitmenComponent.vue').default);
 // garansi
 Vue.component('garansi-component', require('./components/garansi/GaransiComponent.vue').default);
+// rating
+Vue.component('rating-component', require('./components/rating/RatingComponent.vue').default);
+// partner
+Vue.component('partner-component', require('./components/partner/PartnerComponent.vue').default);
+// testimoni
+Vue.component('testimoni-component', require('./components/testimoni/TestimoniComponent.vue').default);
+// liput
+Vue.component('liput-component', require('./components/liput/LiputComponent.vue').default);
+// support
+Vue.component('support-component', require('./components/support/SupportComponent.vue').default);
+// payment
+Vue.component('payment-component', require('./components/payment/PaymentComponent.vue').default);
+// contact
+Vue.component('contact-component', require('./components/contact/ContactComponent.vue').default);
+// address
+Vue.component('address-component', require('./components/address/AddressComponent.vue').default);
+// footer
+Vue.component('footer-component', require('./components/footer/FooterComponent.vue').default);
+
+
+
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
