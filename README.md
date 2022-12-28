@@ -1,7 +1,7 @@
 # Final Project Internship Qwords
 
-##Name : Bagus Untoro
-##Email : untorobagus65@gmail.com
+## Name : Bagus Untoro
+## Email : untorobagus65@gmail.com
 
 
 ## Project setup
@@ -11,7 +11,7 @@ npm install
 composer install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 ```
 npm run watch
 ```
